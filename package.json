@@ -1,0 +1,21 @@
+{
+  "name": "rest-mock-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/nodemon/bin/nodemon server",
+    "db-reset": "node db-reset",
+    "db-reset:dynamic": "node db-reset dynamic"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "lowdb": "^1.0.0",
+    "nodemon": "^3.0.1"
+  },
+  "author": "Alexander Fleming",
+  "license": "MIT"
+}
