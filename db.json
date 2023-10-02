@@ -1,33 +1,4 @@
 {
-  "company": {
-    "name": "Crealogix",
-    "city": "New Lizethstad",
-    "adress": "Ned Cliffs2961 Pinkie Spring",
-    "country": "Bangladesh"
-  },
-  "customers": [
-    {
-      "id": "b4bb886f-d4e9-476f-a9f8-90c15eef04c9",
-      "name": "Pierre Gaylord",
-      "jobTitle": "Principal Quality Coordinator",
-      "email": "Doyle.Bernhard@yahoo.com",
-      "phone": "525-917-2043"
-    },
-    {
-      "id": "82425398-36d6-4cb5-bd6d-db3824a8910e",
-      "name": "Kayden Paucek",
-      "jobTitle": "Customer Research Officer",
-      "email": "Alex_Willms96@gmail.com",
-      "phone": "1-221-340-1493 x167"
-    },
-    {
-      "id": "0dbf3b7f-f70e-40b0-bb31-fc2c0a5b011d",
-      "name": "Mark Schloss",
-      "jobTitle": "Corporate Infrastructure Director",
-      "email": "Carmella84@yahoo.com",
-      "phone": "1-236-662-7452 x3264"
-    }
-  ],
   "product": [
     {
       "id": 22870999394,
